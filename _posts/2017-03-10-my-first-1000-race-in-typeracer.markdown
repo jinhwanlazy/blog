@@ -43,7 +43,7 @@ are shown next to each point.
 There seems definitely a positive correlation between WPM and Accuracy, but
 highest WPM seems to come from around 96% of accuracy.
 
-I might be wrong, I had only a limited number of data,
+I might be wrong, since I had only a limited number of data,
 and I am still improving! I really want to see the chart of you guys,
 have hundreds of thousands race history.
 
