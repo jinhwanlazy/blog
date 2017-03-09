@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My First 1000 races in typeracer.com"
+title:  "My first 1000 races in typeracer.com"
 date:   2017-03-10 07:36:00 +0900
 categories: typing
 ---
