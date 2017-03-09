@@ -18,7 +18,7 @@ when first few days than recent, and big ripple in accuracy in Feburary 12th to
 16th.
 
 For the first one, I have to admit that I had cheated. I was so exited to push 
-my WPM **looks** higher, so I had done early quit when I was slow, and repeated 
+my WPM **looks** higher, so I tend to quit when I feel slow, and repeated 
 with easy texts. I stopped it from January 20, and my average WPM have
 improved from sub 80 to mid 80 since then.
 
