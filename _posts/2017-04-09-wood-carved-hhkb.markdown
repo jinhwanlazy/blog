@@ -31,9 +31,7 @@ switchs are so laud! So I decided to try just one more time. and this is the
 result.
 
 I chose a walnut block this time rather than fused plastic, but still kept the
-budget under $150. [Max keyboard](http://www.maxkeyboard.com/)
-made the keycaps for me. 
-
+budget under $150. 
 See [github repo](https://github.com/jinhwanlazy/wood-case-keyboard)
 for more detailed explanation.
 
