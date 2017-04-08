@@ -15,25 +15,26 @@ I thought about making one myself. And It seemed to be able to reduce the cost
 under $100 by making hardwares using 3D printer. Most mechanical keyboards has
 a metal plate made of aluminum or steel where switches fits in. And usually it
 is the most expensive part if you try DIY. 
-The key idea to make a cheap keyboard was to use 3D printed case itself as a
-plate. So that I maximized plate thickness, and lip enforced overall stiffness.
+The key idea to make a cheap keyboard is to use 3D printed case itself as a
+plate. So that I could maximize plate thickness, and lip enforced overall stiffness.
 
-Acually, I [did it](https://github.com/jinhwanlazy/3d-printable-keyboard) last year.
+Acually, [I did it last year](https://github.com/jinhwanlazy/3d-printable-keyboard).
 I designed it with [OpenJSCAD](https://openjscad.org/#https://raw.githubusercontent.com/jinhwanlazy/3d-printable-keyboard/master/model.js)
 , and printed it with my
 [3DR-simple](http://trains.socha.com/2013/11/building-3dr-simple-delta-printer-part-i.html) copy.
 I had to split it in 3 parts, due to size of the printer. And glued them. 
-I used teensy as controller, and hand wired switches. 
+I used teensy as controller, and hand wired the switches. 
 It works perfectly. I used it for some times. Unfortunately, I started to hate its
-ugliness, but also it was too tall and laud. I didn't expected gateron blue
-switchs are so laud! So I decided to try just one more time. and this is the
+ugliness, but also it was too tall and loud. I didn't expected gateron blue
+switchs are that loud! So I decided to try just one more time. and this is the
 result.
 
-I chose a walnut block this time rather than fused plastic, but still kept the
-budget under $150. [Max Keyboard](http://www.maxkeyboard.com/) made fully
+I chose a walnut block this time rather than fused plastic so It looks gorgeous
+but still kept the budget under $150.
+[Max Keyboard](http://www.maxkeyboard.com/) made fully
 printed set of keycaps with $50. 
-I've also designed the PCB myself because handwiring was too
-tedious. 
+[I've also designed the PCB myself](https://github.com/jinhwanlazy/hhkb-pcb),
+because handwiring was too tedious. 
 
 Below are pictures only.
 See [github repo](https://github.com/jinhwanlazy/wood-case-keyboard)
