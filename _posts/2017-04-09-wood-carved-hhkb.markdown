@@ -45,3 +45,13 @@ for more detailed explanation.
 ![p1](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2556.JPG)
 ![p2](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2569.JPG)
 ![p3](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2571.JPG)
+
+# carving..
+![ins2](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2502.JPG)
+![ins3](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2507.JPG)
+![ins4](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2511.JPG)
+![ins5](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2514.JPG)
+![ins6](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2518.JPG)
+![ins7](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2519.JPG)
+
+
