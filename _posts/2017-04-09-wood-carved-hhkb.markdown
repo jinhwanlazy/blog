@@ -8,15 +8,15 @@ categories: keyboard
 ![p0](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2566.JPG)
 
 As a long time HHKB user, I feel like to have number of copies of the same
-keyboard. One for Lab, one for home, etc..  However, as I am a poor student,
+keyboard. One for Lab, one for home, one for carrying, etc..  However, as I am a poor student,
 I didn't have enough money to buy another board.
 
 I thought about making one myself. And It seemed to be able to reduce the cost 
 under $100 by making hardwares using 3D printer. Most mechanical keyboards has
-a metal plate made of aluminum or steel where switches fits in. And usually it
+a metal plate made of aluminum or steel where switches fits in. Usually it
 is the most expensive part if you try DIY. 
 The key idea to make a cheap keyboard is to use 3D printed case itself as a
-plate. So that I could maximize plate thickness, and lip enforced overall stiffness.
+plate. So that you can maximize plate thickness, and its lip enforces overall stiffness.
 
 Acually, [I did it last year](https://github.com/jinhwanlazy/3d-printable-keyboard).
 I designed it with [OpenJSCAD](https://openjscad.org/#https://raw.githubusercontent.com/jinhwanlazy/3d-printable-keyboard/master/model.js)
