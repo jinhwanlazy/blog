@@ -28,12 +28,13 @@ I had to split it in 3 parts, due to size of the printer, and glued them.
 I used teensy as controller, and hand wired the switches. 
 It worked perfectly. I used it for a while. Unfortunately, I started to hate its
 ugliness, but also it was too tall and loud. I didn't expected gateron blue
-switchs are that loud! So I decided to try just one more time.
+switchs are that loud!
 
-I chose a walnut block this time rather than fused plastic so It looks gorgeous
-but still kept the budget under $150 including keycaps.
+So I decided to try just one more time. Basic concept is the same, but
+I chose a walnut block this time rather than fused plastic so It looks
+gorgeous.
 [Max Keyboard](http://www.maxkeyboard.com/) made fully
-printed set of keycaps with $50. 
+printed set of keycaps for me. 
 [I've also designed the PCB myself](https://github.com/jinhwanlazy/hhkb-pcb),
 because handwiring was too tedious. 
 
