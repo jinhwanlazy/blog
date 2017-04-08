@@ -7,7 +7,7 @@ categories: keyboard
 
 ![p0](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2566.JPG)
 
-As a long time HHKB user, I felt like to have number of copies of the same
+As a long time HHKB user, I feel like to have number of copies of the same
 keyboard. One for Lab, one for home, etc..  However, as I am a poor student,
 I didn't have enough money to buy another board.
 
@@ -30,7 +30,7 @@ switchs are that loud! So I decided to try just one more time. and this is the
 result.
 
 I chose a walnut block this time rather than fused plastic so It looks gorgeous
-but still kept the budget under $150.
+but still kept the budget under $150 including keycaps.
 [Max Keyboard](http://www.maxkeyboard.com/) made fully
 printed set of keycaps with $50. 
 [I've also designed the PCB myself](https://github.com/jinhwanlazy/hhkb-pcb),
