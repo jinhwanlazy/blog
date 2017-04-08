@@ -8,7 +8,6 @@ Welcome! My name is Jinhwan Choi.
 Currently a graduate student in Osaka University.
 
 ## Social 
-- Blog [here](https://jinhwanlazy.github.io/blog/)
 - GitHub [@jinhwanlazy](https://github.com/jinhwanlazy)
 - Thingiverse [@jinhwnlazy](http://www.thingiverse.com/jinhwanlazy/about)
 - Typeracer [@jinhwanlzy](http://data.typeracer.com/pit/profile?user=jinhwanlazy)
