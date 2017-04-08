@@ -22,12 +22,11 @@ Acually, [I did it last year](https://github.com/jinhwanlazy/3d-printable-keyboa
 I designed it with [OpenJSCAD](https://openjscad.org/#https://raw.githubusercontent.com/jinhwanlazy/3d-printable-keyboard/master/model.js)
 , and printed it with my
 [3DR-simple](http://trains.socha.com/2013/11/building-3dr-simple-delta-printer-part-i.html) copy.
-I had to split it in 3 parts, due to size of the printer. And glued them. 
+I had to split it in 3 parts, due to size of the printer, and glued them. 
 I used teensy as controller, and hand wired the switches. 
-It works perfectly. I used it for some times. Unfortunately, I started to hate its
+It worked perfectly. I used it for a while. Unfortunately, I started to hate its
 ugliness, but also it was too tall and loud. I didn't expected gateron blue
-switchs are that loud! So I decided to try just one more time. and this is the
-result.
+switchs are that loud! So I decided to try just one more time.
 
 I chose a walnut block this time rather than fused plastic so It looks gorgeous
 but still kept the budget under $150 including keycaps.
