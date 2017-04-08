@@ -45,6 +45,8 @@ for more detailed explanation.
 ![p1](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2556.JPG)
 ![p2](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2569.JPG)
 ![p3](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2571.JPG)
+![p4](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2567.JPG)
+![p5](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2568.JPG)
 
 # carving..
 ![ins2](https://github.com/jinhwanlazy/wood-case-keyboard/raw/master/pics/IMG_2502.JPG)
