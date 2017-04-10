@@ -6,6 +6,7 @@ permalink: /about/
 
 Welcome! My name is Jinhwan Choi.
 Currently a graduate student in Osaka University.
+This is a place to hold my hobby projects and myself.
 
 ## Social 
 - GitHub [@jinhwanlazy](https://github.com/jinhwanlazy)
